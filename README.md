@@ -111,14 +111,5 @@ Method Pipeline with Deep Learning Model Architectures
 <img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/9dfd46e2-f8ad-4d1b-9254-f3299c8ba87c" />
 <p>Temporal Overlay Plot for Seizure Detection</p>
 
-<h2>📂 Repository Structure</h2>
-<pre>
-├── EEG data/  
-├── Models/
-│   ├── Seizure Detection.ipynb
-│   └── Seizure Prediction.ipynb
-└── README.html
-</pre>
-
 </body>
 </html>
