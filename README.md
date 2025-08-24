@@ -120,5 +120,8 @@ Method Pipeline with Deep Learning Model Architectures
 └── README.md                    
 </code></pre>
 
+  <h2>📜 License</h2>
+  <p>This project is licensed under the <strong>MIT License</strong>. You are free to use, modify, and distribute with attribution.</p>
+
 </body>
 </html>
